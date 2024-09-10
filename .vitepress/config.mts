@@ -7,7 +7,8 @@ export default defineConfig({
   // 打包输出目录
   outDir:"docs",
   // 站点根路径
-  base:"/docs/",
+  // docs123是github的仓库名称
+  base:"/docs123/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
