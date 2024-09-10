@@ -5,7 +5,7 @@ export default defineConfig({
   title: "My Awesome Project",
   description: "A VitePress Site",
   // 打包输出目录
-  outDir:"dist-docs",
+  outDir:"docs",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

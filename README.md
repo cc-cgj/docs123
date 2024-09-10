@@ -114,9 +114,8 @@ lastUpdated: {
 
 1. 打开仓库的 Settings
 2. 选择 pages
-3. 选择 main 分支 作为部署分支
-4. 选择 docs
-5. 点击 Save 保存
+3. 选择 main 分支, 然后选择/docs
+4. 点击 Save 保存
 
 - 访问的地址
 [github的名称].github.io/项目名称
